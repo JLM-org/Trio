@@ -2318,7 +2318,7 @@
 				DDA9AC0A2D678DAD00E6F1A9 /* blacklisted-versions.json */,
 				CE1F6DE62BAF1A180064EB8D /* BuildDetails.plist */,
 				38F3783A2613555C009DB701 /* Config.xcconfig */,
-				BD1CF8B72C1A4A8400CB930A /* ConfigOverride.xcconfig */,\
+				BD1CF8B72C1A4A8400CB930A /* ConfigOverride.xcconfig */,
 				388E595A25AD948C0019842D /* Trio */,
 				587A54C82BCDCE0F009D38E2 /* Model */,
 				38FCF3EE25E9028E0078B0D1 /* TrioTests */,
